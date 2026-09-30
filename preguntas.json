@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Cuál es la capital de Francia?",
+        "respuestas": [
+          { "texto": "París", "correcta": true },
+          { "texto": "Londres", "correcta": false },
+          { "texto": "Berlín", "correcta": false },
+          { "texto": "Madrid", "correcta": false}
+        ]
+    },
+    {
+        "id": 2,
+        "pregunta": "En qué año llegó el hombre a la Luna?",
+        "respuestas": [
+          { "texto": "1969", "correcta": true },
+          { "texto": "1972", "correcta": false },
+          { "texto": "1965", "correcta": false },
+          { "texto": "1980", "correcta": false }
+        ]
+    },
+    {
+        "id": 3,
+        "pregunta": "Quien pinto la mona lisa?",
+        "respuestas": [
+            { "texto": "Leonardo da Vinci", "correcta": true},
+            { "texto": "Pablo Picasso", "correcta": false},
+            { "texto": "Claude Monet", "correcta": false},
+            { "texto": "Diego Velázquez", "correcta": false}
+        ]
+    },
+    {
+        "id": 4,
+        "pregunta": "Cual es el oceano mas grande del mundo?",
+        "respuestas":[
+            { "texto": "Oceano Ártico", "correcta": false},
+            { "texto": "Oceano Índico", "correcta": false},
+            { "texto": "Ocenao Pacífico", "correcta": false},
+            { "texto": "Oceano Atlántico", "correcta": true}
+        ]
+    },
+    {
+        "id": 5,
+        "pregunta": "Cual es el planeta que se le conoce como el de color rojo?",
+        "respuestas":[
+            {"texto": "La Tierra", "correcta": false},
+            {"texto": "Jupiter", "correcta": false},
+            {"texto": "El Sol", "correcta": false},
+            {"texto": "Marte", "correcta": true}
+        ]
+    }
+]
